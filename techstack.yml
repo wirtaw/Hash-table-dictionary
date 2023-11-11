@@ -1,0 +1,27 @@
+repo_name: wirtaw/Hash-table-dictionary
+report_id: 38b1e4e5dd27b3a4f0c4bec1f8284c52
+repo_type: Public
+timestamp: '2023-11-11T19:46:13+00:00'
+requested_by: wirtaw
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
