@@ -1,11 +1,11 @@
 repo_name: wirtaw/Hash-table-dictionary
-report_id: 38b1e4e5dd27b3a4f0c4bec1f8284c52
+report_id: '07884e7716ed960a0d0076adf837c710'
 repo_type: Public
-timestamp: '2023-11-11T19:46:13+00:00'
+timestamp: '2023-12-14T10:26:44+00:00'
 requested_by: wirtaw
 provider: github
 branch: master
-detected_tools_count: 2
+detected_tools_count: 4
 tools:
 - name: C lang
   description: One of the most widely used programming languages of all time
@@ -16,6 +16,17 @@ tools:
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
   detection_source: Repo Metadata
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: HGWellsPlattnerStory.txt
+  last_updated_by: Vladimir Poplavskij
+  last_updated_on: 2018-01-04 09:58:54.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -25,3 +36,14 @@ tools:
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: HGWellsPlattnerStory.txt
+  last_updated_by: Vladimir Poplavskij
+  last_updated_on: 2018-01-04 09:58:54.000000000 Z
