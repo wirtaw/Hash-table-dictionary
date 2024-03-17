@@ -7,6 +7,7 @@ wirtaw/Hash-table-dictionary is built on the following main stack:
 - [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
 - [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
 
+
 Full tech stack [here](/techstack.md)
 
 &lt;--- Readme.md Snippet without images End ---&gt;
